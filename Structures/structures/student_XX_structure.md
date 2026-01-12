@@ -5,28 +5,19 @@ WIDTH: 1
 TYPE: SINGLE_COLUMN
 COLOR: RED
 
-=== student_02.txt ===
-H-H-H-H-H-H-H-H
-HEIGHT: 1
-WIDTH: 8
-TYPE: SINGLE_ROW
-COLOR: BLUE
-
-
 
 # My Structure - Student XX
 
 ## What I See in My Data
-[The letter H is binding together with height 1 and width 8, letters, numbers]
-
+V-V-V-V-V-V-V-V HEIGHT: 8 WIDTH: 1 TYPE: SINGLE_COLUMN COLOR: RED
 
 ## What I Think This Means
-[Interpret the patterns]
-
+Color: Red tells me which bricks to pick Height: 6 Single Column tells me to stack 8 bricks vertically on top of each other to form a tower
 
 ## What This Could Be
-[Your best guess - playground equipment?]
-
+It looks like a pillar, a support beam or a very simple wall section
 
 ## Questions I Have
-[What don't you know yet?]
+No
+
+![thumbnail_IMG_9961](https://github.com/user-attachments/assets/803b91c9-e534-4a93-9ddd-f30a110fad7a)
